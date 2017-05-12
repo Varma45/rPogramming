@@ -1,0 +1,101 @@
+Date,Customer Id,Age,Gender,Country,Customer Type,Device Category,Sessions,Page Views,Avg. Session Duration,Source Medium,Bounce Rate
+04/14/16,1656,39,Female,China,New,Mobile,1,8,57,Referral,0.38
+04/18/16,1504,38,Female,Brazil,New,Mobile,8,35,130,Direct,0.1
+04/22/16,1588,25,Female,Brazil,New,Desktop,2,3,104,Referral,0.6
+04/26/16,1388,26,Male,Brazil,New,Mobile,4,26,84,Google/Organic,0.9
+04/30/16,1401,42,Female,India,New,Desktop,8,5,139,Google/Organic,0.88
+05/04/16,1438,47,Male,India,New,Desktop,8,1,82,Google/Organic,0.96
+05/08/16,1569,19,Male,Japan,Return,Mobile,5,5,82,Direct,0.01
+05/12/16,1304,63,Female,Germany,Return,Mobile,9,24,86,Referral,0.41
+05/16/16,1397,35,Male,Germany,Return,Desktop,9,18,83,Google/Organic,0.86
+05/20/16,1433,30,Male,Indonesia,New,Mobile,3,11,65,Direct,0.14
+05/24/16,1507,39,Female,United States,New,Mobile,5,37,124,Direct,0.25
+05/28/16,1632,36,Female,United Kingdom,Return,Mobile,8,2,13,Direct,0.05
+06/01/16,1310,56,Male,India,New,Mobile,10,27,94,Direct,0.03
+06/05/16,1392,65,Female,Russia,New,Desktop,5,6,174,Direct,0.16
+06/09/16,1734,69,Female,China,Return,Mobile,1,30,87,Direct,0.22
+06/13/16,1706,36,Male,Japan,New,Mobile,10,6,97,Direct,0.02
+06/17/16,1522,39,Male,United Kingdom,New,Desktop,6,29,136,Direct,0.29
+06/21/16,1550,29,Male,United States,New,Desktop,3,48,113,Referral,0.34
+06/25/16,1712,69,Male,China,New,Mobile,1,49,149,Referral,0.55
+06/29/16,1799,29,Male,Brazil,Return,Mobile,4,30,134,Referral,0.36
+07/03/16,1390,80,Male,Russia,New,Mobile,9,3,38,Referral,0.37
+07/07/16,1753,19,Female,Indonesia,New,Desktop,7,19,99,Referral,0.36
+07/11/16,1785,43,Male,Indonesia,Return,Desktop,8,13,105,Google/Organic,0.91
+07/15/16,1659,54,Male,United States,Return,Desktop,8,42,189,Referral,0.47
+07/19/16,1676,32,Male,India,Return,Mobile,6,32,80,Referral,0.43
+07/23/16,1743,35,Male,India,New,Mobile,9,23,96,Direct,0.3
+07/27/16,1528,60,Male,United States,New,Mobile,3,35,61,Google/Organic,0.98
+07/31/16,1370,65,Male,Japan,Return,Desktop,6,4,95,Google/Organic,0.81
+08/04/16,1353,41,Male,India,Return,Desktop,10,23,68,Google/Organic,0.99
+08/08/16,1638,67,Female,China,Return,Mobile,3,12,75,Direct,0.26
+08/12/16,1533,45,Female,Indonesia,New,Mobile,5,41,50,Google/Organic,0.95
+08/16/16,1710,32,Male,Indonesia,New,Desktop,2,41,45,Direct,0.05
+08/20/16,1329,72,Female,China,Return,Desktop,7,45,105,Google/Organic,0.71
+08/24/16,1740,62,Female,China,Return,Mobile,6,33,118,Google/Organic,0.82
+08/28/16,1375,65,Male,Japan,Return,Desktop,8,25,42,Google/Organic,0.97
+09/01/16,1590,43,Female,Russia,Return,Mobile,1,28,49,Referral,0.47
+09/05/16,1655,71,Male,Germany,Return,Desktop,9,39,76,Direct,0.3
+09/09/16,1367,31,Male,Brazil,Return,Mobile,3,23,111,Google/Organic,0.75
+09/13/16,1343,47,Male,Brazil,New,Mobile,8,17,108,Referral,0.35
+09/17/16,1371,37,Female,Bangladesh,Return,Desktop,3,15,118,Google/Organic,0.78
+09/21/16,1505,60,Female,Brazil,Return,Mobile,2,17,69,Direct,0.07
+09/25/16,1739,25,Female,Germany,Return,Mobile,2,39,38,Direct,0.2
+09/29/16,1436,40,Female,United States,Return,Mobile,4,17,125,Direct,0.06
+10/03/16,1333,76,Female,Japan,Return,Mobile,1,34,125,Referral,0.36
+10/07/16,1691,51,Female,Indonesia,Return,Desktop,1,24,77,Referral,0.49
+10/11/16,1499,77,Male,Germany,Return,Mobile,1,26,111,Referral,0.51
+10/15/16,1455,73,Female,Indonesia,New,Mobile,4,27,80,Referral,0.37
+10/19/16,1387,70,Female,United Kingdom,Return,Mobile,10,18,147,Google/Organic,0.99
+10/23/16,1762,55,Female,United Kingdom,New,Mobile,2,24,93,Direct,0.04
+10/27/16,1497,46,Male,Japan,Return,Mobile,2,15,118,Direct,0.23
+10/31/16,1527,21,Male,China,Return,Desktop,4,38,119,Direct,0
+11/04/16,1552,60,Female,United States,Return,Desktop,6,39,124,Google/Organic,0.93
+11/08/16,1620,75,Male,Japan,New,Desktop,3,34,66,Direct,0.1
+11/12/16,1357,19,Male,United Kingdom,Return,Desktop,1,10,48,Direct,0.26
+11/16/16,1474,18,Female,Germany,New,Desktop,8,25,108,Google/Organic,0.78
+11/20/16,1494,26,Male,Germany,New,Desktop,2,37,118,Google/Organic,0.68
+11/24/16,1635,21,Female,United States,Return,Desktop,3,22,170,Google/Organic,0.81
+11/28/16,1564,76,Female,India,Return,Mobile,2,39,81,Google/Organic,0.72
+12/02/16,1316,51,Male,United Kingdom,Return,Mobile,7,45,80,Direct,0.09
+12/06/16,1384,39,Female,United States,New,Mobile,9,47,100,Direct,0.13
+12/10/16,1746,48,Female,Bangladesh,New,Mobile,9,35,161,Google/Organic,0.76
+12/14/16,1396,28,Male,Brazil,New,Desktop,8,7,121,Referral,0.63
+12/18/16,1498,44,Female,Indonesia,Return,Mobile,2,11,84,Direct,0.17
+12/22/16,1508,62,Male,Indonesia,New,Mobile,4,32,109,Referral,0.4
+12/26/16,1373,65,Male,Japan,New,Mobile,2,43,168,Referral,0.55
+12/30/16,1308,36,Female,United States,Return,Mobile,6,27,66,Google/Organic,0.71
+01/03/17,1515,21,Male,Indonesia,Return,Desktop,2,18,156,Referral,0.56
+01/07/17,1309,37,Male,Japan,Return,Mobile,8,21,84,Direct,0.18
+01/11/17,1583,64,Male,United Kingdom,Return,Mobile,8,46,167,Google/Organic,0.97
+01/15/17,1513,39,Male,United Kingdom,New,Desktop,10,27,42,Google/Organic,0.69
+01/19/17,1566,21,Male,Russia,New,Desktop,5,12,112,Referral,0.53
+01/23/17,1529,30,Female,Russia,Return,Mobile,9,23,109,Google/Organic,0.8
+01/27/17,1383,58,Female,United States,Return,Mobile,1,46,90,Google/Organic,0.81
+01/31/17,1687,52,Female,Indonesia,Return,Mobile,7,9,120,Direct,0.26
+02/04/17,1642,56,Female,Russia,New,Mobile,1,27,94,Direct,0.18
+02/08/17,1418,80,Female,China,Return,Desktop,6,8,85,Google/Organic,0.87
+02/12/17,1351,36,Female,United States,New,Desktop,9,24,95,Direct,0.11
+02/16/17,1622,60,Female,Brazil,Return,Desktop,5,22,70,Direct,0.06
+02/20/17,1755,48,Male,Germany,Return,Mobile,4,42,100,Google/Organic,0.76
+02/24/17,1761,25,Female,Russia,Return,Mobile,10,22,43,Google/Organic,0.74
+02/28/17,1544,53,Male,United States,New,Mobile,2,18,54,Google/Organic,0.99
+03/04/17,1300,59,Female,Germany,Return,Mobile,3,46,72,Google/Organic,0.93
+03/08/17,1789,74,Female,Indonesia,Return,Desktop,7,31,123,Google/Organic,0.9
+03/12/17,1713,68,Female,China,New,Mobile,2,20,95,Referral,0.54
+03/16/17,1491,18,Female,Indonesia,Return,Mobile,4,14,72,Referral,0.5
+03/20/17,1581,40,Female,India,New,Mobile,6,39,181,Google/Organic,0.67
+03/24/17,1560,56,Female,Germany,Return,Mobile,6,33,128,Referral,0.49
+03/28/17,1572,50,Female,Indonesia,Return,Mobile,5,50,187,Direct,0.15
+04/01/17,1365,48,Female,China,Return,Desktop,3,20,98,Direct,0.04
+04/05/17,1729,34,Male,Indonesia,New,Desktop,9,21,87,Google/Organic,0.8
+04/09/17,1469,43,Female,Indonesia,New,Desktop,10,25,98,Google/Organic,0.67
+04/13/17,1312,49,Male,Brazil,Return,Desktop,8,42,107,Google/Organic,0.73
+04/17/17,1660,61,Male,Germany,New,Desktop,6,1,69,Referral,0.58
+04/21/17,1551,76,Female,Russia,New,Desktop,5,21,104,Direct,0.15
+04/25/17,1610,80,Male,United States,Return,Mobile,4,19,58,Google/Organic,0.89
+04/29/17,1362,72,Female,China,New,Desktop,5,14,18,Referral,0.38
+05/01/17,1709,29,Male,United States,New,Mobile,4,14,111,Direct,0.2
+05/03/17,1458,34,Female,United States,Return,Mobile,4,33,140,Direct,0.21
+05/06/17,1797,20,Female,Russia,Return,Mobile,7,37,145,Referral,0.33
+05/08/17,1386,71,Female,Germany,New,Desktop,7,44,174,Direct,0.33
