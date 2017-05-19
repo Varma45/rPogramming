@@ -97,20 +97,3 @@ ggplot(data = newDataTable,aes(AgeCategory,Sessions))+geom_bar(stat="identity",a
 ggplot(data = newDataTable,aes(AgeCategory,Sessions))+geom_bar(stat="identity",aes(fill=Customer.Type))
 ggplot(data = newDataTable,aes(AgeCategory,Sessions))+geom_bar(stat="identity",aes(fill=Customer.Type))+facet_grid(.~Customer.Type)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
