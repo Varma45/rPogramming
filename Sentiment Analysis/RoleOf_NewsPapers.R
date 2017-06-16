@@ -173,5 +173,29 @@ upCOMPARISION <- UPbelong$comp
 rm(Articles,TOI,allmix,DelhiTOI,newDelhiNDTV,UpTOI,M,location,location2,Loc,i)
 
 
+#sentiment :) :'(
+
+UP_BJP_senti <- sentiment_by(upBJP$articles)
+UP_SP_senti <- sentiment_by(upSP$articles)
+UP_BSP_senti <- sentiment_by(upBSP$articles)
+UP_CONG_senti <- sentiment_by(upCONG$articles)
+
+Senti <- data.frame(avg_Sentiment = c(mean(UP_BJP_senti$ave_sentiment),mean(UP_SP_senti$ave_sentiment),mean(UP_CONG_senti$ave_sentiment),mean(UP_BSP_senti$ave_sentiment)))
+rownames(Senti) <- c("BJP","SP","CONG","BSP")
+
+ggplot(Senti,aes(x = rownames(Senti),y=Senti$avg_Sentiment,fill = rownames(Senti)))+geom_bar(stat = 'identity')+scale_fill_manual(values=c(BJP = "#FF6600",CONG = "#7EF2F3",SP = "#55026D",BSP = "#3137F9"))+xlab("Party")+ylab("Sentiment shown by newspapers")
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
